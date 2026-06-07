@@ -1,5 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
-
+## NAME: LOKESH P
+## REG NO: 2305001015
 
 ## AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
@@ -36,6 +37,8 @@ return 0;
 }
 ```
 ## OUTPUT:
+<img width="673" height="206" alt="image" src="https://github.com/user-attachments/assets/891ab9f0-152d-4785-b798-a491ba788b05" />
+
 
 
 ## RESULT:
